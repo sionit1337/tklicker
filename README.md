@@ -1,2 +1,6 @@
 # tklicker
-simple clicker with gui made on python
+
+simple clicker with save system and gui written in python
+
+## dependencies
+- tkinter 
